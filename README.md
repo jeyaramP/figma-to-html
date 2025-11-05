@@ -43,4 +43,4 @@ Reference: [LeadCRM.io](https://www.leadcrm.io/)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/figma-to-html.git
+   git clone https://github.com/jeyaramP/figma-to-html.git
