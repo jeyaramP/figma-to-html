@@ -400,6 +400,8 @@ header.sticky .main-menu {
  .submenu:hover .submenu-list {
     transform: translateY(0);
     display: block !important;
+    opacity: 1;
+    visibility: visible;
 }
 
 .submenu-list {
