@@ -41,14 +41,13 @@ Reference: [LeadCRM.io](https://www.leadcrm.io/)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/figma-to-react.git
+   git clone https://github.com/jeyaramP/figma-to-html.git
 
 2. Navigate to the Project Directory:
    
    ```bash
    cd figma-to-html
    
-
 3. Open in your browser:
    
    ```bash
