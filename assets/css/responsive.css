@@ -4,24 +4,7 @@
 
 
 
-@media (min-width:1199px) and (max-width: 1300px) {
-    .mega-menu-box li {
-        padding: 4px 6px 8px 10px !important;
-    }
 
-    .mega-menu-box {
-        padding: 18px 15px;
-    }
-
-    .container,
-    .container-lg,
-    .container-xl {
-        width: 100% !important;
-        max-width: 100% !important;
-        padding-left: 15px !important;
-        padding-right: 15px !important;
-    }
-}
 
 @media (max-width: 992px) {
     .mega-menu-box {
@@ -1135,5 +1118,28 @@ body.has-logo-sticky {
     .mega-menu-box {
         width: 1320px !important;
         transform: translate(-22%, 25px) !important;
+    }
+}
+
+@media (min-width:1199px) and (max-width: 1300px) {
+    .mega-menu-box li {
+        padding: 4px 6px 8px 10px !important;
+    }
+
+    .mega-menu-box {
+        padding: 18px 15px;
+    }
+
+    .container,
+    .container-lg,
+    .container-xl {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .submenu .submenu-list li {
+        padding: 15px;
     }
 }
