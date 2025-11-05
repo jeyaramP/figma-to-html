@@ -1,6 +1,7 @@
+
 ---
 
-## **Task 2 — Figma to HTML (`figma-to-html`)**
+## **Figma to HTML (`figma-to-html`)**
 
 ```markdown
 # Figma to Responsive HTML
@@ -10,12 +11,13 @@ This project focuses on clean, semantic markup, organized CSS, and mobile respon
 
 ---
 
+
 ## Features
 
 - Fully responsive layout for all screen sizes
 - Clean and semantic HTML structure
 - Organized and reusable CSS
-- Responsive grid and flexbox design
+- Responsive flexbox design
 - Browser compatibility: Chrome, Firefox, Safari, Edge
 
 ---
@@ -30,8 +32,8 @@ Reference: [LeadCRM.io](https://www.leadcrm.io/)
 ## Tech Stack
 
 - **HTML5**
-- **CSS3 / SCSS**
-- **Bootstrap 5** (optional)
+- **CSS3**
+- **Bootstrap 5** 
 - **Media Queries**
 - **Flexbox & CSS Grid**
 
