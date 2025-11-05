@@ -1054,7 +1054,7 @@ header.sticky .main-menu {
 
 .infobox-icon img {
     width: 35px;
-    height: 35px;
+    height: auto;
 }
 
 
