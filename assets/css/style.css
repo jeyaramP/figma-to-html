@@ -397,9 +397,7 @@ header.sticky .main-menu {
     position: relative;
 }
 
-.submenu:hover .submenu-list {
-    opacity: 1;
-    visibility: visible;
+ .submenu:hover .submenu-list {
     transform: translateY(0);
     display: block !important;
 }
@@ -411,7 +409,6 @@ header.sticky .main-menu {
     width: 300px;
     border-radius: 30px !important;
     padding: 20px !important;
-    display: flex;
     flex-direction: column;
     align-items: flex-start !important;
     gap: 0 !important;
@@ -1984,6 +1981,23 @@ header.sticky .main-menu {
     cursor: pointer;
     color: #1a3e62;
 }
+
+
+
+ .mobile-menu .submenu.open .submenu-list {
+     display: block;
+ }
+
+ .mobile-menu .submenu .submenu-list {
+     display: none !important;
+ }
+
+
+ .mobile-menu .dropdown.open>.dropdown-list {
+     display: block !important;
+     left: 0;
+     width: 100%;
+ }
 
 
 
