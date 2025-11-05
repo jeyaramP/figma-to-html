@@ -164,7 +164,7 @@ header.sticky .main-menu {
     position: absolute;
     top: 100%;
     left: 50%;
-    transform: translate(-26%, 25px) !important;
+    transform: translate(-30%, 25px) !important;
     width: 1320px;
     max-width: 95vw;
     border-radius: 20px;
